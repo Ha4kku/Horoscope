@@ -1,0 +1,35 @@
+/* All h1's in the program
+ get white color */
+body{
+    font-family:"Lucida Console";
+    color: white;
+
+}
+h1 {
+    font-size: 45px;
+}
+h2 {
+    font-size: 28px;
+
+}
+button {
+    width: 100px;
+    height: 25px;
+    font-family: "Lucida Console";
+
+}
+#Aries {
+    width: 225px;
+    height: 225px;
+
+}
+#Pisces {
+    width: 225px;
+    height: 225px;
+}
+#Capricorn{
+    width: 225px;
+    height: 225px;
+
+}
+
